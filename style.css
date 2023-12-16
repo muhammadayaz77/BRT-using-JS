@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.kh{
+    width: 20%;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid red;
+    text-align: center;
+}
+.para{
+    margin-top: 20px;
+}
+.con{
+    width: 100%;
+    height: 500vh;
+    display: flex;
+    justify-content: center;
+}
+
+
+h1{
+    margin-bottom: 10px;
+}
+.km{
+    width: 110px;
+}
